@@ -1,0 +1,11 @@
+{
+  "mode": "pre",
+  "tag": "beta",
+  "initialVersions": {
+    "@sunshine-pnpm-changeset/hooks": "1.0.0",
+    "@sunshine-pnpm-changeset/utils": "1.0.0"
+  },
+  "changesets": [
+    "neat-rice-joke"
+  ]
+}
