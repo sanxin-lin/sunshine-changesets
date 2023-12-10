@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "changeset": "changeset",
+    "changeset:alpha": "changeset pre enter alpha",
+    "changeset:beta": "changeset pre enter beta",
+    "changeset:rc": "changeset pre enter rc",
+    "changeset:exit": "changeset pre exit",
+    "changeset:publish": "changeset publish",
     "packages-version": "changeset version",
     "publish": "changeset publish --registry=https://registry.npmjs.com/"
   },
